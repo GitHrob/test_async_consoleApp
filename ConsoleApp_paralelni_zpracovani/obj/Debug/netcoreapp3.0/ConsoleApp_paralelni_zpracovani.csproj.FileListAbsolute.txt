@@ -9,3 +9,14 @@ C:\Users\Daniel\source\repos\ConsoleAppsCore\ConsoleApp_paralelni_zpracovani\obj
 C:\Users\Daniel\source\repos\ConsoleAppsCore\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.dll
 C:\Users\Daniel\source\repos\ConsoleAppsCore\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.pdb
 C:\Users\Daniel\source\repos\ConsoleAppsCore\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.exe
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.deps.json
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.runtimeconfig.json
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.dll
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\bin\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.pdb
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.dll
+C:\Users\Daniel\source\repos\ConsoleAppsCoreVS2019\ConsoleApp_paralelni_zpracovani\obj\Debug\netcoreapp3.0\ConsoleApp_paralelni_zpracovani.pdb

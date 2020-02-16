@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCore\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj": {}
+    "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCoreVS2019\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCore\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj": {
+    "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCoreVS2019\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCore\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCoreVS2019\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj",
         "projectName": "ConsoleApp_paralelni_zpracovani",
-        "projectPath": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCore\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCoreVS2019\\ConsoleApp_paralelni_zpracovani\\ConsoleApp_paralelni_zpracovani.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCore\\ConsoleApp_paralelni_zpracovani\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\ConsoleAppsCoreVS2019\\ConsoleApp_paralelni_zpracovani\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

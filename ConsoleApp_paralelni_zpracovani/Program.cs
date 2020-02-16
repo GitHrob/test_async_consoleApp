@@ -69,6 +69,7 @@ namespace ConsoleApp_paralelni_zpracovani
             });
 
             await Task.WhenAll(uloha1async, uloha2async);
+
             //Task.WaitAll(uloha1async, uloha2async);
 
             int uloha1Result = await uloha1async;
